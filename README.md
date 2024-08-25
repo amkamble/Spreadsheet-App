@@ -16,8 +16,10 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Spreadsheet App
-This is a fully functional spreadsheet-like application built using Next.js, Zustand for state management, and Tailwind CSS for styling. The application supports basic spreadsheet features such as cell editing, formatting, search, filtering, pagination, and undo/redo functionality.
+<h1>Spreadsheet App</h1>
+This is a fully functional spreadsheet-like application built using Next.js,
+Zustand for state management, and Tailwind CSS for styling. 
+The application supports basic spreadsheet features such as cell editing, formatting, search, filtering, pagination, and undo/redo functionality.
 
 Features
 Editable Cells: Click on any cell to edit its content.
@@ -27,6 +29,7 @@ Search and Filter: Search through cell content and apply numeric filters.
 Pagination: Navigate through large datasets with pagination controls.
 Getting Started
 Prerequisites
+
 Ensure you have the following installed:
 
 Node.js: v14 or later
@@ -34,37 +37,6 @@ npm: v6 or later
 Installation
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/spreadsheet-app.git
-cd spreadsheet-app
-Install dependencies:
-
-bash
-Copy code
-npm install
-Running the Project
-To run the project locally:
-
-Start the development server:
-
-bash
-Copy code
-npm run dev
-Open the application:
-
-Open your browser and navigate to http://localhost:3000.
-
-Building for Production
-To build the project for production:
-
-bash
-Copy code
-npm run build
-This will create an optimized build in the .next directory.
-
-Deployment
-After building the project, you can deploy the out directory to any static hosting service, such as Vercel or Netlify.
 
 Usage Instructions
 Cell Editing
@@ -82,5 +54,5 @@ Reset Filters: Click "Reset" to clear all applied filters and restore the full d
 Pagination
 Navigate Pages: Use the "Previous" and "Next" buttons to navigate between pages of cells.
 Page Indicator: The current page number is displayed between the navigation buttons.
-License
-This project is licensed under the MIT License.
+
+
