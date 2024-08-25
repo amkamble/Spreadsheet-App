@@ -17,7 +17,7 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 <h1>Spreadsheet App</h1>
-<h3>Live on netlify :  https://main--spreadsheetproject.netlify.app</h3>
+<h4>Live on netlify : https://spreadsheetproject.netlify.app </h4>
 This is a fully functional spreadsheet-like application built using Next.js,
 Zustand for state management, and Tailwind CSS for styling. 
 The application supports basic spreadsheet features such as cell editing, 
@@ -31,7 +31,7 @@ Search and Filter: Search through cell content and apply numeric filters.
 Pagination: Navigate through large datasets with pagination controls.
 Getting Started
 Prerequisites
-<h3>Live on netlify :  https://main--spreadsheetproject.netlify.app</h3>
+<h4>Live on netlify : https://spreadsheetproject.netlify.app </h4>
 
 functions added :
 Cell Editing
