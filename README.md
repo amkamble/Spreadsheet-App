@@ -17,9 +17,11 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 <h1>Spreadsheet App</h1>
+<h3>Live on netlify :  https://main--spreadsheetproject.netlify.app</h3>
 This is a fully functional spreadsheet-like application built using Next.js,
 Zustand for state management, and Tailwind CSS for styling. 
-The application supports basic spreadsheet features such as cell editing, formatting, search, filtering, pagination, and undo/redo functionality.
+The application supports basic spreadsheet features such as cell editing, 
+formatting, search, filtering, pagination, and undo/redo functionality.
 
 Features
 Editable Cells: Click on any cell to edit its content.
@@ -29,17 +31,9 @@ Search and Filter: Search through cell content and apply numeric filters.
 Pagination: Navigate through large datasets with pagination controls.
 Getting Started
 Prerequisites
+<h3>Live on netlify :  https://main--spreadsheetproject.netlify.app</h3>
 
-'check live https://main--spreadsheetproject.netlify.app'
-Ensure you have the following installed:
-
-Node.js: v14 or later
-npm: v6 or later
-Installation
-Clone the repository:
-
-
-Usage Instructions
+functions added :
 Cell Editing
 Click on any cell to make it editable.
 Type your desired content and click outside the cell to save.
